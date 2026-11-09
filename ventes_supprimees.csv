@@ -1,0 +1,5 @@
+sale_id,customer_id,product_id,quantity,order_date,idcustomers,first_name,last_name,email,phone,idproduct,nom_product,prix_product,motif_suppression
+2,2,10,2,2026-01-05 10:15:00,2,Sarah,Benali,,0612345678,10,Smartphone Samsung,799.99,champ_manquant
+9002,2,10,-3,2026-10-02 00:00:00,2,Sarah,Benali,,0612345678,10,Smartphone Samsung,799.99,"vente_erronée, quantité_invalide, champ_manquant"
+9003,3,11,0,2026-10-03 00:00:00,3,Youssef,Alaoui,youssef.alaoui@gmail.com,0612345678,11,iPhone 15,999.99,"vente_erronée, quantité_invalide"
+9004,4,12,5,,4,Imane,Bennani,imane.bennani@gmail.com,0623456789,12,Xiaomi Redmi Note,299.99,"date_invalide, champ_manquant"

@@ -1,0 +1,27 @@
+sale_id,customer_id,product_id,quantity,order_date,idcustomers,first_name,last_name,email,phone,idproduct,nom_product,prix_product
+1,1,3,2,"2026-10-19 16:17:34",1,naser,khadli,nasrokhadli@gmail.com,06826301863,3,iphone14,600.00
+2,2,10,2,"2026-01-05 10:15:00",2,Sarah,Benali,NULL,0612345678,10,"Smartphone Samsung",799.99
+3,3,11,1,"2026-01-07 14:30:00",3,Youssef,Alaoui,youssef.alaoui@gmail.com,0612345678,11,"iPhone 15",999.99
+4,4,12,3,"2026-01-10 09:45:00",4,Imane,Bennani,imane.bennani@gmail.com,0623456789,12,"Xiaomi Redmi Note",299.99
+5,5,13,1,"2026-01-15 16:20:00",5,Omar,Tazi,omar.tazi@gmail.com,0634567890,13,"Smartphone Pro",899.99
+6,6,14,2,"2026-01-18 11:00:00",6,Salma,Idrissi,salma.idrissi@gmail.com,0645678901,14,"Ecouteurs Sans Fil",129.99
+7,7,15,1,"2026-01-22 13:10:00",7,Hamza,Fassi,hamza.fassi@gmail.com,0656789012,15,"Casque Bluetooth",89.99
+8,8,16,2,"2026-02-02 10:00:00",8,Nour,Amrani,nour.amrani@gmail.com,0667890123,16,"Montre Connectee",199.99
+9,9,17,1,"2026-02-05 15:45:00",9,Mehdi,Chraibi,mehdi.chraibi@gmail.com,0678901234,17,"PC Portable HP",850.00
+10,10,18,4,"2026-02-09 12:30:00",10,Aya,Berrada,aya.berrada@gmail.com,0689012345,18,"PC Portable Dell",950.00
+11,11,19,1,"2026-02-12 17:00:00",11,Anas,Lahlou,anas.lahlou@gmail.com,0690123456,19,"MacBook Air",1299.99
+12,12,20,3,"2026-02-16 09:20:00",12,Sara,Mansouri,sara.mansouri@gmail.com,0601234567,20,"Clavier Mecanique",79.99
+13,13,21,2,"2026-02-20 14:15:00",13,Adam,"El Fadili",adam.elfadili@gmail.com,0611122233,21,"Souris Sans Fil",29.99
+14,14,22,1,"2026-03-01 11:30:00",14,Lina,Tahiri,lina.tahiri@gmail.com,0622233344,22,"Ecran 24 pouces",179.99
+15,15,23,2,"2026-03-04 16:45:00",15,Karim,Bouzid,karim.bouzid@gmail.com,0633344455,23,"Ecran 27 pouces",279.99
+16,16,24,1,"2026-03-08 10:10:00",16,Meryem,Saidi,meryem.saidi@gmail.com,0644455566,24,"Tablette Samsung",349.99
+17,17,25,3,"2026-03-12 13:50:00",17,Rayan,Kabbaj,rayan.kabbaj@gmail.com,0655566677,25,"iPad Air",699.99
+18,18,26,2,"2026-03-17 15:25:00",18,Hiba,Naciri,hiba.naciri@gmail.com,0666677788,26,"Disque SSD 1 To",99.99
+19,19,27,5,"2026-03-21 09:00:00",19,Bilal,Ouazzani,bilal.ouazzani@gmail.com,0677788899,27,"Disque Dur Externe",69.99
+20,20,28,1,"2026-03-25 12:40:00",20,Salim,Mekouar,salim.mekouar@gmail.com,0688899900,28,"Cle USB 128 Go",19.99
+21,21,29,2,"2026-03-30 17:15:00",21,Dounia,"Ait Ali",dounia.aitali@gmail.com,0699900011,29,"Routeur WiFi",59.99
+9001,1,3,2,"2026-10-01 00:00:00",1,naser,khadli,nasrokhadli@gmail.com,06826301863,3,iphone14,600.00
+9002,2,10,-3,"2026-10-02 00:00:00",2,Sarah,Benali,NULL,0612345678,10,"Smartphone Samsung",799.99
+9003,3,11,0,"2026-10-03 00:00:00",3,Youssef,Alaoui,youssef.alaoui@gmail.com,0612345678,11,"iPhone 15",999.99
+9004,4,12,5,NULL,4,Imane,Bennani,imane.bennani@gmail.com,0623456789,12,"Xiaomi Redmi Note",299.99
+9005,5,13,2,"2026-10-05 00:00:00",5,Omar,Tazi,omar.tazi@gmail.com,0634567890,13,"Smartphone Pro",899.99
